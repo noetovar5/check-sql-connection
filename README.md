@@ -1,4 +1,5 @@
 # check-sql-connection
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.check-sql-connection"/>
 Using a UDL to check sql connection
 Creating a Universal Data Link (UDL)
 It’s often nice, while working with BizTalk (or any other MS product, for that matter) to have UDL files available to allow you to quickly setup your connections to various databases. A UDL file is essentially a file that saves connection information, making it available for future use.
